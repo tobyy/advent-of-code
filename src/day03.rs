@@ -137,10 +137,6 @@ pub fn run() {
     println!("Result part 2 = {}", part2(&load_lines_from_file(part2_file_path).unwrap()));
 }
 
-fn main() {
-    run();
-}
-
 
 #[cfg(test)]
 mod tests {
