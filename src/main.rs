@@ -9,4 +9,6 @@ fn main() {
     day02::run();
     println!("\n\n# Day 03:\n");
     day03::run();
+    println!("\n\n# Day 04:\n");
+    day04::run();
 }
